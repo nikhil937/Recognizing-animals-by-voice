@@ -1,0 +1,14 @@
+.container{
+
+    background: dimgrey;
+    height:100px ;
+    color: black;
+}
+#start{
+
+    background: dodgerblue;
+    color: ghostwhite;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+}
